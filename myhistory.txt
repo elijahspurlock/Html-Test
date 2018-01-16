@@ -1,0 +1,44 @@
+    1  ls
+    2  cd OneDrive
+    3  ls
+    4  cd htmltest
+    5  ls
+    6  git log
+    7  git log
+    8  git log -p
+    9  git log -p
+   10  git remote -v
+   11  ssh-keygen
+   12  ls ~/.ssh
+   13  cat ~/.ssh/id_rsa.pub
+   14  git remote add origin git@github.com:elijahspurlock/Html-Test.git
+   15  git push -u origin master
+   16  git status
+   17  git dif
+   18  git diff
+   19  git add htmltest.html
+   20  git status
+   21  git commit -m "add title"
+   22  git status
+   23  git log
+   24  git push
+   25  git remote -v
+   26  git status
+   27  git add .
+   28  git status
+   29  git commit -m
+   30  git commit -m "css/excersise1.html"
+   31  git diff
+   32  git commit css/excersise1.html -m "css/excersise1.html" 
+   33  git diff
+   34  git log
+   35  git show
+   36  git push 
+   37  git diff
+   38  git checkout css/excersise1.html
+   39  history 
+   40  echo 1234
+   41  echo 1234 > test.txt
+   42  cat test.txt 
+   43  history 
+   44  history > myhistory.txt
